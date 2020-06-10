@@ -1,0 +1,31 @@
+.container-fluids {
+    /* background-image: url('../../assets/nature.jpg'); */
+    /* background-image: url('http://api.thumbr.it/whitenoise-361x370.png?background=d92534ff&noise=ffffff&density=57&opacity=76'); */
+    /* background: #0C232B;
+    background: -moz-linear-gradient(-45deg, #0C232B 0%, #162BBA 71%, #2751C5 100%);
+    background: -webkit-linear-gradient(-45deg, #0C232B 0%, #162BBA 71%, #2751C5 100%);
+    background: linear-gradient(135deg, #0C232B 0%, #162BBA 71%, #2751C5 100%); 
+    opacity: 0.9; */
+
+    background-image: linear-gradient(to right, #02AAB0 0%, #00CDAC 51%, #02AAB0 100%);
+
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    width: 100vw;
+    height: 110vh;
+    /* filter: blur(3px);
+  -webkit-filter: blur(3px); */
+}
+
+.form-group {
+    border: 0px solid grey;
+    background-color: #34353494;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 10vh;
+    color: white;
+}
+
+.line {
+    text-decoration-line: underline;
+}
